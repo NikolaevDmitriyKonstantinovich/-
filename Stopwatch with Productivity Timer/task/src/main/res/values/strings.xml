@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Pomodoro Timer</string>
+    <string name="clear_notifications">CLEAR ALL</string>
+    <string name="defaultTime">00:03</string>
+</resources>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="org.hyperskill.tests.stopwatch.Stage3UnitTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2022-12-04T15:40:38" hostname="DESKTOP-J2BTMC0" time="1.482">
+  <properties/>
+  <testcase name="checkProgressBarInvisibilityOnReset" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.256"/>
+  <testcase name="checkProgressBarInvisibilityOnInit" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.254"/>
+  <testcase name="checkProgressBarVisibilityOnStart" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.26"/>
+  <testcase name="checkMultipleClicks" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.191"/>
+  <testcase name="checkProgressBarExists" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.307"/>
+  <testcase name="checkProgressBarColorEachSecond" classname="org.hyperskill.tests.stopwatch.Stage3UnitTest" time="0.212"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
